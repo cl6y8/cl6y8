@@ -21,10 +21,3 @@ Here are some ideas to get you started:
   height="300"
 />
 </a>
-<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=cl6y8&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/cl6y8"
-  width="600"
-  height="300"
-/>
-</a>
