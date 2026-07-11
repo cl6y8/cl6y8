@@ -21,3 +21,6 @@ Here are some ideas to get you started:
   height="300"
 />
 </a>
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=000000&vCenter=true&width=450&lines=Animal+Farm+🐥" />
+</p>
